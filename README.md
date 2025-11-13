@@ -1,10 +1,6 @@
-# Suraj Kumar - C Programming Projects Portfolio
+
 
 Welcome to my collection of C programming projects! This repository demonstrates my proficiency in systems programming, data structures, file operations, and building practical command-line applications.
-
-## 👨‍💻 About Me
-
-I'm a passionate developer with a strong foundation in C programming and systems development. I enjoy building practical applications that solve real-world problems while showcasing clean code architecture and robust error handling.
 
 ## 📂 Projects
 
